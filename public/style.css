@@ -1,8 +1,11 @@
 body {
-  background-color: sandybrown;
-  color: steelblue;
+  text-align: center;
+ background-color: sandybrown;
+ color: steelblue;
 }
 
+
 h1 {
+  text-align: center;
   color: steelblue;
 }
